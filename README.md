@@ -1,5 +1,5 @@
 # aws-documentdb-template
-Use this template to setup documentdb on aws
+Use this template to setup documentdb on aws using cloudformation
 
 ## Usage Instructions:
 
