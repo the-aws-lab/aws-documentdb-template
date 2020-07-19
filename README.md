@@ -7,7 +7,7 @@ Use this template to setup documentdb on aws
 
 | Parameter            |  Type   | Description            | Default                      | Required |
 | -------------------- | ------- | ---------------------- | ---------------------------- | -------- |
-| ENV                  | String  | Environment            | "stage"                      | Y        |
+| ENV                  | String  | Environment            | stage                        | Y        |
 | HostedZoneResource   | string  | Route53 Hosted Zone    | example.com                  | Y        |
 | AppName              | string  | Application Name       | theawslab                    | Y        |
 | DbUserName           | string  | Database Username      | admin                        | Y        |
