@@ -15,7 +15,7 @@ Parameters:
     AppName:
       Description: Application Name
       Type: String
-      Default: myapp
+      Default: theawslab
 
     DbUserName:
       Description: Database Username
