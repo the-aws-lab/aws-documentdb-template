@@ -1,5 +1,15 @@
-# aws-documentdb-template
+# Lan AWS DocumentDB using CloudFormation
 Use this template to setup documentdb on aws using cloudformation
+
+This template will deploy the following resources:
+- Database Cluster
+- Database Instance
+- Database Subnets
+- Database Security Group
+- Route53 Record Set
+
+## Licence:
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 ## Usage Instructions:
 
