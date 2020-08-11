@@ -1,4 +1,4 @@
-# Lan AWS DocumentDB using CloudFormation
+# Launch AWS DocumentDB using CloudFormation
 Use this template to setup documentdb on aws using cloudformation
 
 This template will deploy the following resources:
